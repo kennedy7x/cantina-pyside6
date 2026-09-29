@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Banco de dados local (não deve ir pro Git)
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups
+instance/backups/
+*.bak
+
+# VS Code
+.vscode/
+!.vscode/launch.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Relatórios gerados
+*.pdf
+cantina_*.csv
