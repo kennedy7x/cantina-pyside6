@@ -1,28 +1,25 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
-.Python
 venv/
-env/
 .venv/
+env/
 
-# Banco de dados local (não deve ir pro Git)
+# Banco de dados local
 instance/
 *.db
 *.sqlite
 *.sqlite3
 
 # Backups
-instance/backups/
 *.bak
 
 # VS Code
 .vscode/
 !.vscode/launch.json
 
-# Sistema operacional
+# Sistema
 .DS_Store
 Thumbs.db
 desktop.ini
