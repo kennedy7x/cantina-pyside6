@@ -6,12 +6,11 @@ Trabalho da disciplina de **Programação Orientada a Objetos com Serviços (POO
 
 ## 👥 Integrantes
 
-- Kennedy [Sobrenome] — [RA]
-- [Nome 2] — [RA]
-- [Nome 3] — [RA]
+- Kennedy: CJ3034038
+- Matheus Augusto: CJ3028224
 
-**Instituição:** [Nome da faculdade]
-**Professor:** [Nome do professor]
+**Instituição:** [Instituto Federal de São Paulo]
+**Professor:** [Marques Moreira de Sousa]
 
 ## ✨ Funcionalidades
 
@@ -38,12 +37,12 @@ python run.py
 O banco instance/cantina.db é criado automaticamente na primeira execução.
 
 🔑 Senha inicial do Admin
-text
-cantina123
+
+senha: cantina123
 Troque em Admin → Segurança após o primeiro login.
 
 📁 Estrutura
-text
+
 cantina_pyside6/
 ├── cantina/
 │   ├── database.py           # Camada de dados (SQLite)
@@ -63,25 +62,3 @@ Não há senha para o aluno: quem souber o CPF entra na conta.
 
 📄 Licença
 Projeto acadêmico — uso livre para fins educacionais.
-
-text
-
----
-
-## Antes de commitar
-
-Preenche só o que está entre `[colchetes]`:
-
-- `[Sobrenome]`, `[RA]`
-- `[Nome 2]`, `[RA]`, `[Nome 3]`, `[RA]`
-- `[Nome da faculdade]`
-- `[Nome do professor]`
-
-Se preferir deixar sem os integrantes, é só apagar essa seção inteira.
-
-Depois:
-
-```bash
-git add README.md
-git commit -m "docs: adicionar README"
-git push
