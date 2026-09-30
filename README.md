@@ -60,6 +60,3 @@ PIX e Cartão são simulados (mocks). Em produção seria necessária integraç�
 Senha do Admin usa SHA-256 sem salt — suficiente para uso escolar, não para produção bancária.
 
 Não há senha para o aluno: quem souber o CPF entra na conta.
-
-📄 Licença
-Projeto acadêmico — uso livre para fins educacionais.
